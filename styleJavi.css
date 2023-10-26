@@ -1,0 +1,28 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para encabezados */
+h1 {
+    color: #861a1a;
+    text-align: center;
+}
+.imagen-contenedor {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 300px; 
+
+}
+
+.imagen-contenedor img {
+    max-width: 100%; 
+    max-height: 100%; 
+}
+p {
+    color: #666;
+    font-size: 16px;
+}
